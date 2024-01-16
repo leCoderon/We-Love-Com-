@@ -1,21 +1,20 @@
-# We Love Com' - Creatie & Digital Agency ✨
+# We Love Com' - Creative & Digital Agency ✨
 
-Bienvenue sur le dépôt GitHub de **Bloggy** ! 🚀
+Bienvenue sur le dépôt GitHub de **We Love Com'** ! 🚀
 
-Explorez un monde de mots et d'idées sur notre blog réactif. Visionnez-le en action sur [YouTube](lien_youtube).
+Faites exploser votre business grâce à notre agence web digital créative. Visionnez-le en action sur [We Love Com']([lien_youtube](https://lecoderon.github.io/We-Love-Com-/)).
 
 ## Points Forts
 
-- **Design Réactif :** Développé avec HTML, CSS, JavaScript, PHP (avec le framework Laravel) et Bootstrap. Bloggy s'adapte élégamment à tous les dispositifs, des smartphones aux écrans d'ordinateurs.
+- **Design Réactif :** Développé avec HTML, CSS, JavaScript et Bootstrap. We Love Com' s'adapte élégamment à tous les dispositifs, des smartphones aux écrans d'ordinateurs.
 - **Animations au Défilement :** Profitez d'animations fluides et captivantes pour une expérience de lecture immersive.
-- **Thèmes Clair et Sombre :** Choisissez entre un mode clair et un mode sombre pour une expérience de lecture personnalisée.
 - **Approche Mobile First :** Développé en suivant la méthodologie Mobile First pour une expérience optimale sur les appareils mobiles, ensuite adapté aux écrans plus larges.
 - **Interface Utilisateur Agréable :** Une interface utilisateur soignée pour une lecture plaisante.
-- **Crédits :** Merci à Start Bootstrap pour le Template [Clean blog](https://startbootstrap.com/theme/clean-blog).
+- **Crédits :** Merci à xxx pour le Template [Thanks](##).
 
 ## Découvrez la Démo
 
-Pour découvrir Bloggy en action, rendez-vous sur [YouTube](lien_youtube). N'oubliez pas de vous abonner à notre chaîne [LeCoderon](lien_youtube) pour plus de vidéos captivantes !
+Pour découvrir We Love Com' en action, rendez-vous sur [YouTube](lien_youtube). N'oubliez pas de vous abonner à notre chaîne [LeCoderon](lien_youtube) pour plus de vidéos captivantes !
 
 ## Comment Contribuer
 
