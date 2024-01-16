@@ -1,4 +1,4 @@
-# Bloggy - Explorez les Mots 📝✨
+# We Love Com' - Creatie & Digital Agency ✨
 
 Bienvenue sur le dépôt GitHub de **Bloggy** ! 🚀
 
